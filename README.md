@@ -2,6 +2,4 @@
 Internal project for marketing.
 
 
-Needed a place to host images for marketing events. 
-
-Note:
+Needed a place to host images for marketing events. Checkout project wiki.
